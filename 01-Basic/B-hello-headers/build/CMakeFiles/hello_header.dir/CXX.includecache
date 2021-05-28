@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/static/Hello.h
+
+/home/mataojie1/myfile/MakeFile/01-Basic/B-hello-headers/src/Hello.cpp
+Hello.h
+/home/mataojie1/myfile/MakeFile/01-Basic/B-hello-headers/src/Hello.h
+iostream
+-
+
+/home/mataojie1/myfile/MakeFile/01-Basic/B-hello-headers/src/main.cpp
+iostream
+-
+Hello.h
+/home/mataojie1/myfile/MakeFile/01-Basic/B-hello-headers/src/Hello.h
+
