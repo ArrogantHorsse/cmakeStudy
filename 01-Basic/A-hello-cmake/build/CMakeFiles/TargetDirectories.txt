@@ -1,3 +1,0 @@
-/home/mataojie1/myfile/MakeFile/01-Basic/A-hello-cmake/build/CMakeFiles/rebuild_cache.dir
-/home/mataojie1/myfile/MakeFile/01-Basic/A-hello-cmake/build/CMakeFiles/hello_cmake.dir
-/home/mataojie1/myfile/MakeFile/01-Basic/A-hello-cmake/build/CMakeFiles/edit_cache.dir
